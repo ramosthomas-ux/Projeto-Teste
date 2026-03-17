@@ -1,0 +1,25 @@
+body{
+background-color: azure;
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+background-color: aquamarine;
+align-items: center;
+justify-content: space-around;
+padding: 20px;
+display: flex;
+}
+
+h1{
+
+}
+
+input{
+
+}
+
+button{
+
+}
