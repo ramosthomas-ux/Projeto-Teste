@@ -13,13 +13,17 @@ display: flex;
 }
 
 h1{
-
+color: aliceblue;
+font-size: 30px;
 }
 
 input{
-
+width: 100px;
+height: 10px;
 }
 
 button{
-
+background-color: darkgray;
+width: 50px;
+border-radius: 30px;
 }
