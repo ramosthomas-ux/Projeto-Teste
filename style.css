@@ -18,12 +18,12 @@ font-size: 30px;
 }
 
 input{
-width: 100px;
+width: 400px;
 height: 10px;
 }
 
 button{
 background-color: darkgray;
-width: 50px;
+width: 150px;
 border-radius: 30px;
 }
