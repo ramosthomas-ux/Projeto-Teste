@@ -38,6 +38,9 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    color: aliceblue;
+    margin: 20px;
+    width: 90vw;
 }
 
 p{
