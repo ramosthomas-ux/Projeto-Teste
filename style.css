@@ -50,3 +50,11 @@ p{
 img{
     width: 400px;
 }
+
+section button{
+background-color: darkred;
+color: antiquewhite;
+height: 100px;
+width: 150px;
+font-size: 30px;
+}
