@@ -30,6 +30,7 @@ border-radius: 30px;
 
 main{
     padding: 20px;
+    margin: 40px;
     background-color: crimson;
     border-radius: 10px;
 }
@@ -41,6 +42,7 @@ section{
     color: aliceblue;
     margin: 20px;
     width: 90vw;
+    padding: 100px;
 }
 
 p{
@@ -55,6 +57,6 @@ section button{
 background-color: darkred;
 color: antiquewhite;
 height: 100px;
-width: 150px;
+width: 250px;
 font-size: 30px;
 }
